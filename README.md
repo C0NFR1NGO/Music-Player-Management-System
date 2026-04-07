@@ -1,6 +1,6 @@
 # 🎵 Music Playlist Management System
 
-This repository contains a C implementation of a music playlist management system, designed to simulate features of modern music players like Spotify using a Linked List data structure. It was developed as a lab assignment for the CSL214: Data Structure and Program Design - II course.
+This repository contains a C implementation of a music playlist management system, designed to simulate features of modern music players like Spotify using a Linked List data structure. It was developed as a project for the CSL214: Data Structure and Program Design - II course.
 
 ## 🏗️ Data Structures
 
